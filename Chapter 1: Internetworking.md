@@ -1,4 +1,5 @@
 # *Internetworking*
+
 ## *Internetworking Basics*
 * network segmentation - breaking large network into smaller network
 * Things that can cause LAN traffic congestion:
@@ -20,6 +21,7 @@
 	* internetwork communication
 	* path selection
 * Collision Domain - a device send out a packet on a network segment and every other device is forced to pay attention no matter what.
+
 ## *Internetworking Models*
 * in late 1970s, the International Organization of Standard (ISO) created the Open Systems Interconnection (OSI) model to solve the problem of only computers from same manfufacture could talk to each other.
 * the OSI model divide the communication system into logical groups call layer
@@ -29,6 +31,7 @@
 	- encourages industry standardization by clearly defining what functions occur at each layer of the model
 	- allow various type of hardware and software to communicate
 	- prevent changes in one layer from affecting other layers to expedite development.
+
 ## *OSI Reference Model*
 	* Application 
 		* provides a user interface
